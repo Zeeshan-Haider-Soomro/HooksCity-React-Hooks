@@ -78,6 +78,6 @@ npm start
 
 ---
 
-### 💡 Need Help?
-Feel free to reach out if you need any improvements or new features! 🚀
+### 💡 any suggestion !!
+Feel free to reach out if you have any suggestion about this project or new features! 🚀
 
